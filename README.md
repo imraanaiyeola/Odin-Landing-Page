@@ -1,2 +1,2 @@
 # Odin-Landing-Page
-My version if The Odin Project's landing page.
+My version of The Odin Project's landing page.
